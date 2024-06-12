@@ -1,4 +1,4 @@
-# Matlab Audio Player
+# MATLAB Audio Player
 
 ## Demo Video
 
